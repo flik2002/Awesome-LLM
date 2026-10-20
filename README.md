@@ -616,7 +616,7 @@
 
 ⭐ **Real-time AI Agent Monitoring Dashboard for OpenClaw**
 
-![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 ### Features
 - **Real-time Monitoring**: Live Gateway connection and session status
